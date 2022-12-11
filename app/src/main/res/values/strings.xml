@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CROSS Payment Scanner</string>
+
+    <string name="scanner">Payment Scanner</string>
+    <string name="scan">Scan User Card</string>
+    <string name="price">Ticket Price</string>
+</resources>
